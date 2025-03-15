@@ -1,0 +1,4 @@
+ttkthemes==3.2.2
+pygments==2.19.1
+numpy==2.2.3
+tk==0.1.0
